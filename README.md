@@ -12,4 +12,3 @@ Platform for finding and posting jobs.
 - AWS S3
 - Celery
 ## License
-MIT
