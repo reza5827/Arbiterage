@@ -7,7 +7,6 @@ Platform for finding and posting jobs.
 - Email notifications
 - Admin panel
 ## Tech Stack
-- Django
 - PostgreSQL
 - AWS S3
 - Celery
